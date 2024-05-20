@@ -20,10 +20,10 @@ for (let i = 0; i < ownerlist.length; i += 2) {
         ownerlist[i + 1],         
         true                        
     ];
-    global.owner.push(owner);['27717971274', '27655398135']
+    global.owner.push(owner);
 }
 
-//global.pairingNumber = "27655398135" //put your bot number here
+//global.pairingNumber = "27717971274" //put your bot number here
 
 global.mods = ['27717971274', '27655398135']
 global.prems = ['27717971274', '27655398135', '']
@@ -71,7 +71,7 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = process.env.BOTNAME'ZEUS-BOT'
+global.botname = process.env.BOTNAME
 global.premium = 'true'
 global.packname = '𖣂'
 global.author = 'ZEUS'
